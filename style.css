@@ -1,0 +1,60 @@
+.rounde{
+    border-radius: 50px;
+    padding: 8px 20px;
+    font-size: 15px;
+}
+li{
+padding-right: 15px;
+}
+.padding{
+
+}
+#header{
+    background-color:#F0FFF0;
+    ;
+}
+.fasttext{
+ 
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.clr{
+    color: #21B573;
+
+}
+.iconBg{
+    background: #F8FFFB;
+    ;
+  height: 100%;
+  padding-top: 50px;
+  border-radius: 10px;
+}
+.iconBgg{
+    box-shadow: 5px 5px 10px lightgray ;
+  height: 100%;
+  padding-top: 50px;
+  border-radius: 10px;
+}
+.w{
+    width: 20%;
+}
+.allIconHead{
+   
+}
+.card{
+border: none;
+border-radius: 15px;
+box-shadow: 5px 5px 10px lightgray ;
+}
+li{
+    list-style: none;
+}
+#footer{
+    background: #282531;
+
+}
